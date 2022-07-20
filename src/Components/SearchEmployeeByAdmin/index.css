@@ -1,0 +1,24 @@
+.search-bg-container {
+    background-image: linear-gradient(to top, #ffffff, #05f2e6);
+    height : 100vh;
+    background-size:cover;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    padding : 50px;
+}
+
+.search-container {
+    margin-top : 50px;
+    margin-left:80px;
+   margin-right: 250px;
+   /* border-bottom: 1px solid black; */
+}
+
+.form_input{
+    width:auto;
+}
+
+.tables {
+    margin : 50px;
+}

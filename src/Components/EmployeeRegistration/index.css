@@ -1,0 +1,58 @@
+.bg-container{
+	background-image: linear-gradient(to top, #ffffff, #05f2e6);
+    filter: brightness(85%);
+	background-size: cover;
+    padding-top: 100px;
+	height: 100vh;
+	max-height: 2500px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+    align-items:center;
+}
+
+.heading{
+    margin-bottom: 80px;
+}
+
+.form-body  {
+    background-color: #FCF6F5FF;
+	padding: 20px;
+	border-radius: 15px;
+    background-size: cover;
+    width:35%;
+    align-items:center;
+}
+
+.employee-image {
+    width:100px;
+    border-radius : 50px;
+    margin-top: -70px;    
+    margin-bottom: 30px;
+}
+
+.form_label{
+    width: 40%;
+}
+
+.form_input{
+    width:50%;
+    /* height:30px; */
+}
+
+.select-input {
+    width : 41%;
+    /* height : 30px; */
+}
+
+.errorMsg {
+    color : red;
+    padding-top: 0%;
+}
+
+.submit {
+    border-radius:3px;
+    text-align:center;
+    border-width:0;
+    background-color:rgb(16, 204, 148);
+}

@@ -1,0 +1,28 @@
+.search-icon {
+    height : 30px;
+    width : 50px;
+    color : rgb(22, 26, 21);
+}
+
+table {
+    border-spacing: 0;
+    border: 1px solid black;
+}
+
+    tr,td {
+      padding: 0.5rem;
+      border-bottom: 1px solid black;
+      border-right: 1px solid black;
+    }
+   
+    th {
+      background: green;
+      border-bottom: 3px solid blue;
+      color: white;
+      font-weight: bold;
+  }
+
+  .edit-icon {
+    height:25px;
+    width:35px;
+  }

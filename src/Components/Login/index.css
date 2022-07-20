@@ -1,0 +1,27 @@
+.login-bg-container{
+	background-image: linear-gradient(to top, #ffffff, #05f2e6);
+    filter: brightness(85%);
+	background-size: cover;
+	height: 110vh;
+	max-height: 2500px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+    align-items:center;
+}
+
+.form-body-1  {
+    background-color: #FCF6F5FF;
+	padding: 20px;
+	border-radius: 15px;
+    background-size: cover;
+    width:450px;
+	height : 350px;
+    align-items:center;
+}
+
+.admin {
+	margin-bottom:50px;
+}
+
+
